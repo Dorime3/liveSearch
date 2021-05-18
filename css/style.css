@@ -1,0 +1,29 @@
+.hide {
+    display: none;
+}
+.wrap {
+    padding: 10% 15%;
+    background-color: rgb(190, 190, 190);
+    width: 50vw;
+    height: 100vh;
+    box-sizing: border-box;
+}
+.wrap h1 {
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.wrap input {
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+}
+#input:focus {
+    outline: none;
+}
+ol {
+    padding-left: 20px;
+    font-weight: 600;
+}
+li {
+    margin: 5px 0;
+}
